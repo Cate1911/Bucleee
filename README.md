@@ -35,7 +35,7 @@ Tomé un rango que me tomara todos los números desde 0 hasta n y la potencia, e
    ![image](https://github.com/Cate1911/Bucleee/assets/141857246/3a2e991e-1e17-4d07-8580-8b65739b767f)
 
 ### 7. Diseñe un programa que muestre las tablas de multiplicar del 1 al 9.
-      Aquí cree 9 listas para cada una de las tablas de multiplicar, asimismo, para cada tabla de multiplicar, usé el ciclo for, en donde en cada caso tomé valores desde 1 hasta 11(pero sólo me toma hasta el 10), además, en cada caso, definí una variable numero que se irá actualizando a medida que recorra los diferentes valores del rango y se multiplique por el número que corresponde en cada caso de la tabla. También utilicé el comando append para que me añladiera cada iteración a la lista vacía correspondiente. Finalmente, con print, pude imprimir los resultados de las tablas de multiplicar de 1 a 9 multiplicadas por los números del 1 al 10.
+   Aquí cree 9 listas para cada una de las tablas de multiplicar, asimismo, para cada tabla de multiplicar, usé el ciclo for, en donde en cada caso tomé valores desde 1 hasta 11(pero sólo me toma hasta el 10), además, en cada caso, definí una variable numero que se irá actualizando a medida que recorra los diferentes valores del rango y se multiplique por el número que corresponde en cada caso de la tabla. También utilicé el comando append para que me añladiera cada iteración a la lista vacía correspondiente. Finalmente, con print, pude imprimir los resultados de las tablas de multiplicar de 1 a 9 multiplicadas por los números del 1 al 10.
 
    ![image](https://github.com/Cate1911/Bucleee/assets/141857246/e2f6bb81-78f4-4075-a304-aba3e4669786)
 
